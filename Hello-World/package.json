@@ -14,5 +14,8 @@
     "@nomiclabs/hardhat-ethers": "^2.2.3",
     "ethers": "^5.7.2",
     "hardhat": "^2.22.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
   }
 }
