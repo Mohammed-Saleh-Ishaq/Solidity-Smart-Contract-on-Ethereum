@@ -13,7 +13,7 @@ Folks we have a lot to set up before starting our project. But don’t worry, I�
 
 Your metamask wallet is your key to the web3 world. It is your digital wallet to store, swap and buy cryptocurrencies, tokens, NFTs, and other amazing things in the web3 world.
 MetaMask has a mobile application and a Chrome browser extension too. I personally use MetaMask on my Chrome browser extension because I do most of the work on my laptop. Anyways, 
-let’s go!
+let’s go!  
 Here are the installation steps:
 1. Go to MetaMask.ioClick
 2. Download and Install the Chrome Extension.
