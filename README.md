@@ -14,3 +14,12 @@ Folks we have a lot to set up before starting our project. But don’t worry, I�
 Your metamask wallet is your key to the web3 world. It is your digital wallet to store, swap and buy cryptocurrencies, tokens, NFTs, and other amazing things in the web3 world.
 MetaMask has a mobile application and a Chrome browser extension too. I personally use MetaMask on my Chrome browser extension because I do most of the work on my laptop. Anyways, 
 let’s go!
+Here are the installation steps:
+1. Go to MetaMask.ioClick
+2. Download and Install the Chrome Extension.
+3. Setup your secure password.
+4. The next step is the most important one.Secure your 12-word phrase properly, never share it with anyone.
+5. Write it somewhere because if you lose it, you will never have a way to recover your account. So be mindful of that.
+6. Congrats! your account is created and you must have received a public address.
+7. The public address will be in the pattern of:
+   Example: 0x12r45...6HJ9
