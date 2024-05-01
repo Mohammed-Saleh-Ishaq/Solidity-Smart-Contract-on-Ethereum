@@ -26,3 +26,4 @@ Here are the installation steps:
 
 ## Manually add Sepolia to your MetaMask
 1. Use the provided information (Network name, RPC URL, Chain ID, Currency Symbol) to add the network manually.
+![m-step-4 ffba6a8a](https://github.com/Mohammed-Saleh-Ishaq/Solidity-Smart-Contract-on-Ethereum/assets/117186633/2e2c454d-bda1-4a57-b257-504bafe92f65)
