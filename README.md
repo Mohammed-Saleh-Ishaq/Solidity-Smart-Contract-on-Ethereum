@@ -23,3 +23,6 @@ Here are the installation steps:
 6. Congrats! your account is created and you must have received a public address.
 7. The public address will be in the pattern of:
    Example: 0x12r45...6HJ9
+
+## Manually add Sepolia to your MetaMask
+1. Use the provided information (Network name, RPC URL, Chain ID, Currency Symbol) to add the network manually.
