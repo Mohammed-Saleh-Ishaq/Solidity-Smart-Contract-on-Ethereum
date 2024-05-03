@@ -29,4 +29,6 @@ Here are the installation steps:
 ![m-step-4 ffba6a8a](https://github.com/Mohammed-Saleh-Ishaq/Solidity-Smart-Contract-on-Ethereum/assets/117186633/2e2c454d-bda1-4a57-b257-504bafe92f65)
 
     Network name : Sepolia test network  
-    RPC URL : https://rpc2.sepolia.org
+    RPC URL : https://rpc2.sepolia.org </br>
+    chain ID : 11155111 </br>
+    Currency : ETH
