@@ -35,3 +35,4 @@ Here are the installation steps:
 2. Open MetaMask. </br>
 3. Click the circle icon at the top right, then select "Settings." Navigate to "Networks" and click "Add Network."</br>
 ![m-step-5 e9128667](https://github.com/Mohammed-Saleh-Ishaq/Solidity-Smart-Contract-on-Ethereum/assets/117186633/3b2f9952-f799-4aa2-9fae-0f2707481718)
+4. If your desired network isn't listed, scroll to the bottom and choose "Add a Network Manually."
