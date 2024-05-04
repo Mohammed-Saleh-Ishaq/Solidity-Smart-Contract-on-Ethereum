@@ -38,3 +38,4 @@ Here are the installation steps:
 4. If your desired network isn't listed, scroll to the bottom and choose "Add a Network Manually."
 ![m-step-6 209228f9](https://github.com/Mohammed-Saleh-Ishaq/Solidity-Smart-Contract-on-Ethereum/assets/117186633/2225af14-21bc-4101-a329-8734b193ebe2)
 5. Input the Network Name, RPC URL, Chain ID, and Currency Symbol. The Blockchain Explorer field can be left blank.
+![m-step-7 b0a24dd6](https://github.com/Mohammed-Saleh-Ishaq/Solidity-Smart-Contract-on-Ethereum/assets/117186633/63d90a77-9337-4a3a-b183-c6162c7cf153)
