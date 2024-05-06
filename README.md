@@ -55,3 +55,8 @@ You can follow the steps given below:
 6. Click on “Send me ETH” button.
 
 After waiting for some time, you will receive 0.5 Sepolia ETH.
+
+## Set up HardHat project
+First make a project directory where you will work and we will install all the dependencies and hardhat there.  
+Now open your terminal and run the following commands one by one.   
+Just copy and paste one by one.
