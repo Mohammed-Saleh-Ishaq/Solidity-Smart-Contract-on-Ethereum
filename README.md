@@ -60,3 +60,9 @@ After waiting for some time, you will receive 0.5 Sepolia ETH.
 First make a project directory where you will work and we will install all the dependencies and hardhat there.  
 Now open your terminal and run the following commands one by one.   
 Just copy and paste one by one.
+``` bash
+mkdir Hello-World
+cd Hello-World
+npm init --yes
+npm install --save-dev hardhat
+```
