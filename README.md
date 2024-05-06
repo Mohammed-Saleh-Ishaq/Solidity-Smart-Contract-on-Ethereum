@@ -43,3 +43,15 @@ Here are the installation steps:
 7. You'll receive a success message prompting you to switch to the newly added network. Switch to it, and you'll see it displayed at the top middle of the app.
 
 ## Get some Sepolia ETH $$
+You can follow the steps given below:
+
+1. Head over to the site: https://sepoliafaucet.com/.
+2. Create an account there.
+3. Follow the steps if they ask you any questions.
+   1. Select “Learning” as your project
+   2. Select Ethereum as your blockchain you want to work with.
+4. After the questions, faucet will re-appear.
+5. Paste your account address and check captcha.
+6. Click on “Send me ETH” button.
+
+After waiting for some time, you will receive 0.5 Sepolia ETH.
