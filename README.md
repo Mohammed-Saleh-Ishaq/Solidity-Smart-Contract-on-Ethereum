@@ -66,3 +66,7 @@ cd Hello-World
 npm init --yes
 npm install --save-dev hardhat
 ```
+Now write the following command on the terminal.
+``` bash
+npx hardhat
+```
