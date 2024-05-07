@@ -70,4 +70,6 @@ Now write the following command on the terminal.
 ``` bash
 npx hardhat
 ```
-You will see something like this.
+You will see something like this.  
+![HardHat-output](https://github.com/Mohammed-Saleh-Ishaq/Solidity-Smart-Contract-on-Ethereum/assets/117186633/0519b075-4e2c-43f9-9f6c-b016ca873ff6)
+
