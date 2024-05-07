@@ -70,3 +70,4 @@ Now write the following command on the terminal.
 ``` bash
 npx hardhat
 ```
+You will see something like this.
