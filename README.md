@@ -73,3 +73,4 @@ npx hardhat
 You will see something like this.  
 ![HardHat-output](https://github.com/Mohammed-Saleh-Ishaq/Solidity-Smart-Contract-on-Ethereum/assets/117186633/0519b075-4e2c-43f9-9f6c-b016ca873ff6)
 
+Please follow the guide and create a JavaScript project. Just follow through the questions and answer them yes. For me it was something like below:
