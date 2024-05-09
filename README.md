@@ -75,3 +75,10 @@ You will see something like this.
 
 Please follow the guide and create a JavaScript project. Just follow through the questions and answer them yes. For me it was something like below: just press Enter/Yes to All.
 ![hardhat-output-2](https://github.com/Mohammed-Saleh-Ishaq/Solidity-Smart-Contract-on-Ethereum/assets/117186633/04adc895-47a8-4e34-a306-e4a17064fa98)
+
+You need to install some more dependencies.
+``` bash
+npm install --save-dev @nomiclabs/hardhat-ethers ethers --force
+npm install @nomiclabs/hardhat-ethers ethers hardhat @nomicfoundation/hardhat-toolbox --force
+
+```
