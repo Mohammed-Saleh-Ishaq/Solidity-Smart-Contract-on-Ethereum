@@ -82,3 +82,6 @@ npm install --save-dev @nomiclabs/hardhat-ethers ethers --force
 npm install @nomiclabs/hardhat-ethers ethers hardhat @nomicfoundation/hardhat-toolbox --force
 
 ```
+## Project structure  
+Let’s open your project in VSCode or Sublime or any other IDE your prefer. The structure will look something like this.  
+You can even install a Solidity extension there.
