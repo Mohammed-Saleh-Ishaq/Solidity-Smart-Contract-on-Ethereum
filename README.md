@@ -84,4 +84,7 @@ npm install @nomiclabs/hardhat-ethers ethers hardhat @nomicfoundation/hardhat-to
 ```
 ## Project structure  
 Let’s open your project in VSCode or Sublime or any other IDE your prefer. The structure will look something like this.  
-You can even install a Solidity extension there.
+You can even install a Solidity extension there.  
+<p align ="center">
+<img src="https://github.com/Mohammed-Saleh-Ishaq/Solidity-Smart-Contract-on-Ethereum/assets/117186633/127e6867-8315-41c4-8259-0e4fa4e768b0" width="300" height="300" />
+</p>
