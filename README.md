@@ -89,3 +89,5 @@ You can even install a Solidity extension there.
 <img src="https://github.com/Mohammed-Saleh-Ishaq/Solidity-Smart-Contract-on-Ethereum/assets/117186633/127e6867-8315-41c4-8259-0e4fa4e768b0" width="300" height="300" />
 </p>
 If you don't see a script, just add it manually. In the script, add a new file name, deploy.js
+
+Create a .env file.
