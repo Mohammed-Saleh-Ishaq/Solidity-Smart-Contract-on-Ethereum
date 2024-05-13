@@ -92,3 +92,7 @@ If you don't see a script, just add it manually. In the script, add a new file n
   
   run the following command to compile the smart contract  
   Create a .env file.
+  ``` bash
+npx hardhat compile
+
+```
