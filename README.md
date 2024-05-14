@@ -88,9 +88,17 @@ You can even install a Solidity extension there.
 <p align ="center">
 <img src="https://github.com/Mohammed-Saleh-Ishaq/Solidity-Smart-Contract-on-Ethereum/assets/117186633/127e6867-8315-41c4-8259-0e4fa4e768b0" width="300" height="300" />
 </p>
-If you don't see a script, just add it manually. In the script, add a new file name, deploy.js
-  
-  run the following command to compile the smart contract  
+If you don't see a script, just add it manually. In the script, add a new file name, deploy.js</br>
+
+## Get your private MetaMask key </br>
+1. Open the metamask extension to find your private key.
+2. Click on Account.
+3. Click on 3 dots on right side and go to “Account Details”.
+4. Click on “Show private key”.
+5. Enter Metamask password.
+6. Copy your private key.
+
+run the following command to compile the smart contract  
   Create a .env file.
   ``` bash
 npx hardhat compile
