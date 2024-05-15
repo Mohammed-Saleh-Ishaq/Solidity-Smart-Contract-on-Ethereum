@@ -98,9 +98,16 @@ If you don't see a script, just add it manually. In the script, add a new file n
 5. Enter Metamask password.
 6. Copy your private key.
 
+## Setting up the environment variables
+ Now if that private key is made visible, the hacker can gain access to your account and then the rest will be history. In order to avoid this issue. Let’s do the following.
+ ``` bash
+npm install dotenv --save --force
+```
+
 run the following command to compile the smart contract  
   Create a .env file.
   ``` bash
 npx hardhat compile
 
 ```
+
