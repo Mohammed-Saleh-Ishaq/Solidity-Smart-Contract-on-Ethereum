@@ -103,7 +103,11 @@ If you don't see a script, just add it manually. In the script, add a new file n
  ``` bash
 npm install dotenv --save --force
 ```
-
+Now go ahead and create .env file if you haven’t at the base of your project. Open your .gitignore file and write .env there.  
+Open the .env file you have just created. Replace YOUR_PRIVATE_KEY with your MetaMask Private Key.
+``` bash
+PRIVATE_KEY="YOUR_PRIVATE_KEY"
+```
 run the following command to compile the smart contract  
   Create a .env file.
   ``` bash
