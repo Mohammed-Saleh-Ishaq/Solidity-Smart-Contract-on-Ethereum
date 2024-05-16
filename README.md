@@ -118,7 +118,7 @@ PRIVATE_KEY="YOUR_PRIVATE_KEY"
 
 ## Updating Hardhat Config file
 Open your hardhat.config.js file and paste the following code.</br>
-Don’t forget to update <YOUR-HTTPS-LINK> with your Alchemy HTTPS link.
+Don’t forget to update <YOUR-HTTPS-LINK> with your Alchemy HTTPS link.</br>
 run the following command to compile the smart contract  
   Create a .env file.
   ``` bash
