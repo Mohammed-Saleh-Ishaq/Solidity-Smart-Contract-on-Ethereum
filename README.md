@@ -116,6 +116,9 @@ PRIVATE_KEY="YOUR_PRIVATE_KEY"
 5. Choose “Ethereum Sepolia” as your Network.
 6. After creating the app, click on “API Key”, and copy HTTPS link.
 
+## Updating Hardhat Config file
+Open your hardhat.config.js file and paste the following code.</br>
+Don’t forget to update <YOUR-HTTPS-LINK> with your Alchemy HTTPS link.
 run the following command to compile the smart contract  
   Create a .env file.
   ``` bash
