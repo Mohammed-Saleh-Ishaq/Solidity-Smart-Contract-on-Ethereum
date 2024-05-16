@@ -108,6 +108,14 @@ Open the .env file you have just created. Replace YOUR_PRIVATE_KEY with your Met
 ``` bash
 PRIVATE_KEY="YOUR_PRIVATE_KEY"
 ```
+## Get Alchemy HTTP link
+1. Login to your Alchemy account.
+2. Go to this link: https://dashboard.alchemy.com/apps
+3. Create new app.
+4. Name your app and write description.
+5. Choose “Ethereum Sepolia” as your Network.
+6. After creating the app, click on “API Key”, and copy HTTPS link.
+
 run the following command to compile the smart contract  
   Create a .env file.
   ``` bash
