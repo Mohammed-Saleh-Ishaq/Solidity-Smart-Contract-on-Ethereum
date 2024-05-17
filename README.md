@@ -119,6 +119,23 @@ PRIVATE_KEY="YOUR_PRIVATE_KEY"
 ## Updating Hardhat Config file
 Open your hardhat.config.js file and paste the following code.</br>
 Don’t forget to update <YOUR-HTTPS-LINK> with your Alchemy HTTPS link.</br>
+``` bash
+require("dotenv").config();
+require("@nomiclabs/hardhat-ethers");
+const { PRIVATE_KEY } = process.env;
+module.exports = {
+  solidity: "0.8.9",
+  defaultNetwork: "sepolia",
+  networks: {
+    hardhat: {},
+    sepolia: {
+      url: "<YOUR-HTTPS-LINK>",
+      accounts: [`0x${PRIVATE_KEY}`],
+    },
+  },
+};
+
+```
 run the following command to compile the smart contract and Create a .env file.
   ``` bash
 npx hardhat compile
