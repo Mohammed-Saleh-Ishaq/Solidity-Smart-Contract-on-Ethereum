@@ -146,4 +146,4 @@ You’ll get the following output.
 Downloading compiler 0.8.9
 Compiled 1 Solidity file successfully
 ```
-
+Now, run the script file using the following command.
