@@ -141,4 +141,9 @@ run the following command to compile the smart contract and Create a .env file.
 npx hardhat compile
 
 ```
+You’ll get the following output.
+``` bash
+Downloading compiler 0.8.9
+Compiled 1 Solidity file successfully
+```
 
