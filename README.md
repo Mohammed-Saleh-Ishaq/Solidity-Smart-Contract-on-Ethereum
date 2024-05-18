@@ -147,3 +147,6 @@ Downloading compiler 0.8.9
 Compiled 1 Solidity file successfully
 ```
 Now, run the script file using the following command.
+``` bash
+npx hardhat run scripts/deploy.js --network sepolia
+```
