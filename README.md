@@ -152,7 +152,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 ```
 If all goes well, your contract will be deployed and you will be able to see the address of the contract on the terminal. Copy that and save in your .env file with variable name as CONTRACT_ADDRESS, we will use it later to interact with the contract.</br>
 Now your .env file should look something like this.
-``` bash
+``` 
 PRIVATE_KEY="YOUR_PRIVATE_KEY"
 CONTRACT_ADDRESS="YOUR_DEPLOYED_CONTRACT_ADDRESS"
 
