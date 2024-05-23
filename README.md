@@ -147,7 +147,7 @@ Downloading compiler 0.8.9
 Compiled 1 Solidity file successfully
 ```
 Now, run the script file using the following command.
-``` bash
+``` 
 npx hardhat run scripts/deploy.js --network sepolia
 ```
 If all goes well, your contract will be deployed and you will be able to see the address of the contract on the terminal. Copy that and save in your .env file with variable name as CONTRACT_ADDRESS, we will use it later to interact with the contract.</br>
