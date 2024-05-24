@@ -142,7 +142,7 @@ npx hardhat compile
 
 ```
 You’ll get the following output.
-``` bash
+``` 
 Downloading compiler 0.8.9
 Compiled 1 Solidity file successfully
 ```
