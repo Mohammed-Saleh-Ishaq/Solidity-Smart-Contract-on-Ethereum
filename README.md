@@ -137,7 +137,7 @@ module.exports = {
 
 ```
 run the following command to compile the smart contract and Create a .env file.
-  ``` bash
+  ```
 npx hardhat compile
 
 ```
