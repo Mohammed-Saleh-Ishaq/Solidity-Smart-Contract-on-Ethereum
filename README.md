@@ -119,7 +119,7 @@ PRIVATE_KEY="YOUR_PRIVATE_KEY"
 ## Updating Hardhat Config file
 Open your hardhat.config.js file and paste the following code.</br>
 Don’t forget to update <YOUR-HTTPS-LINK> with your Alchemy HTTPS link.</br>
-``` bash
+```
 require("dotenv").config();
 require("@nomiclabs/hardhat-ethers");
 const { PRIVATE_KEY } = process.env;
